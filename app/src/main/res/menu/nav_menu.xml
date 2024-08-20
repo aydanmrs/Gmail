@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mainpage"
+        android:title=""
+        android:icon="@drawable/baseline_forward_to_inbox_24" />
+    <item android:id="@+id/notification"
+        android:title=""
+        android:icon="@drawable/baseline_chat_bubble_outline_24"/>
+    <item android:id="@+id/liked"
+        android:title=""
+        android:icon="@drawable/baseline_groups_24"/>
+    <item android:id="@+id/delivery"
+        android:title=""
+        android:icon="@drawable/baseline_videocam_24"/>
+
+</menu>
